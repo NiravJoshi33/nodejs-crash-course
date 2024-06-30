@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "nodejs crash course code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server_w_middleware.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
